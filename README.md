@@ -1,14 +1,14 @@
 # 🚖 Uber India – Mumbai Data Analytics Project
 
-This project analyzes Uber ride data in **Mumbai** for the month of **July 2024**. It uses **SQL**, **Excel**, and **Power BI** to transform raw booking data into actionable business insights. The project is modeled after a real-world Ola Data Analyst Case Study.
+This project analyses Uber ride data in **Mumbai** for **July 2024**. It uses **SQL**, **Excel**, and **Power BI** to transform raw booking data into actionable business insights. The project is modelled after a real-world Ola Data Analyst Case Study.
 
 ---
 
 ## 📊 Project Objective
 
 - Understand **how Uber operates** in a specific Indian city (Mumbai)
-- Explore demand trends, revenue patterns, ride outcomes, and user behavior
-- Demonstrate a complete data pipeline: **Cleaning → Processing → Visualization**
+- Explore demand trends, revenue patterns, ride outcomes, and user behaviour
+- Demonstrate a complete data pipeline: **Cleaning → Processing Visualisation**
 
 ---
 
@@ -26,9 +26,9 @@ This project analyzes Uber ride data in **Mumbai** for the month of **July 2024*
 
 - `Bookings.xlsx` – Raw Uber booking dataset (40,539 rows)
 - `Uber.sql` – SQL scripts for data cleaning and transformation
-- `Uber 2024 Data India.pbix` – Power BI file with dashboards
+- Uber 2024 Data India.ppix– Power BI file with dashboards
 - `Uber_Mumbai_Project_Report.pdf` – Detailed report explaining the entire project
-- `README.md` – GitHub readme (this file)
+- `Readme.md` – GitHub readme (this file)
 
 ---
 
@@ -37,14 +37,12 @@ This project analyzes Uber ride data in **Mumbai** for the month of **July 2024*
 - 🚨 **38% of bookings were not completed** (driver/customer cancellations or no driver found)
 - 🕗 **Peak ride requests at 8 AM & 9 PM**
 - 📍 **Top pickup areas**: Indira Nagar, Banashankari, Kammanahalli
-- 💰 **Uber Comfort** earned the most revenue (highest avg fare per trip)
+- 💰 **Uber Comfort** earned the most revenue (highest average fare per trip)
 - 💸 **Cash & UPI** dominate as preferred payment methods
 
 ---
 
 ## 📈 Power BI Dashboard Preview
-
-![Dashboard Preview](#)  
 
 (https://github.com/user-attachments/assets/f4956d69-9b84-431e-aab5-2db3a3ca7572)
 
@@ -54,7 +52,7 @@ This project analyzes Uber ride data in **Mumbai** for the month of **July 2024*
 
 - Real-world data is **messy** — handled `"No"` placeholders, merged date/time fields, fixed spelling inconsistencies
 - SQL helped in writing flexible, scalable transformations
-- Power BI helped uncover patterns in time, geography, and ride behavior
+- Power BI helped uncover patterns in time, geography, and ride behaviour
 - Learned to tell stories using data, not just numbers!
 
 ---
