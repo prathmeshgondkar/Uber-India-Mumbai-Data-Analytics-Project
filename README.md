@@ -44,7 +44,7 @@ This project analyses Uber ride data in **Mumbai** for **July 2024**. It uses **
 
 ## 📈 Power BI Dashboard Preview
 
-(https://github.com/user-attachments/assets/f4956d69-9b84-431e-aab5-2db3a3ca7572)
+![Overall](https://github.com/prathmeshgondkar/Uber-India-Mumbai-Data-Analytics-Project/blob/b9907e080db4f39f8f89a215290bdfd4d51db4f5/Overall.png)
 
 ---
 
